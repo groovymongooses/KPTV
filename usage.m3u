@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/espn.png" group-title="Sports",ESPN Server 1
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/espn.png" group-title="Sports",ESPN
 http://41.205.93.154/ESPN/index.m3u8
-#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN 2" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/espn2.png" group-title="Sports",ESPN 2 Server 1
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN 2" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/espn2.png" group-title="Sports",ESPN 2
 http://fl2.moveonjoy.com/ESPN_2/index.m3u8
 #EXTINF:-1 tvg-id="FanDuel.Sports.Network.Ohio.-.Cleveland.us" tvg-name="Fanduel Sports Network Ohio" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/fanduelsportsnetwork.png" group-title="Sports",Fanduel Sports Network Ohio
 https://tvpass.org/live/fanduel-sports-network-ohio-cleveland/hd
@@ -16,7 +16,11 @@ http://fl2.moveonjoy.com/FX/index.m3u8
 #EXTINF:-1 tvg-id="FX.Movie.Channel.us" tvg-name="FXM" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/fxm.png" group-title="Entertainment",FXM
 http://fl2.moveonjoy.com/FX_MOVIE/index.m3u8
 #EXTINF:-1 tvg-id="FXX.USA.-.Eastern.us" tvg-name="FXX" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/fxx.png" group-title="Entertainment",FXX
+http://fl2.moveonjoy.com/FXX/index.m3u8
+#EXTINF:-1 tvg-id="FXX.USA.-.Eastern.us" tvg-name="FXX" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/fxx.png" group-title="Entertainment",FXX
 https://tvpass.org/channel/fxx-usa-eastern
+#EXTINF:-1 tvg-id="FXX.us@East",FXX East (720p)
+https://tvpass.org/live/FXXEast/hd
 #EXTINF:-1 tvg-id="MTV.USA.-.Eastern.Feed.us" tvg-name="MTV" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/mtv.png" group-title="Entertainment",MTV
 http://fl2.moveonjoy.com/MTV/index.m3u8
 #EXTINF:-1 tvg-id="SundanceTV.USA.-.East.us" tvg-name="Sundance TV" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/sundancetv.png" group-title="Entertainment",Sundance TV
