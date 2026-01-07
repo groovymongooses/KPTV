@@ -5,8 +5,6 @@ http://41.205.93.154/ESPN/index.m3u8
 http://fl2.moveonjoy.com/ESPN_2/index.m3u8
 #EXTINF:-1 tvg-id="FanDuel.Sports.Network.Ohio.-.Cleveland.us" tvg-name="Fanduel Sports Network Ohio" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/fanduelsportsnetwork.png" group-title="Sports",Fanduel Sports Network Ohio
 https://tvpass.org/live/fanduel-sports-network-ohio-cleveland/hd
-#EXTINF:-1 tvg-id="3ABN.Three.Angels.Broadcasting.Network.us" tvg-name="SEC Network" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/secnetwork.png" group-title="Sports",SEC Network
-https://xyzdddd.mizhls.ru/lb/premium385/index.m3u8
 #EXTINF:-1 tvg-id="Comedy.Central.(US).-.Eastern.Feed.us" tvg-name="Comedy Central" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/comedycentral.png" group-title="Entertainment",Comedy Central
 http://fl1.moveonjoy.com/Comedy_Central/index.m3u8
 #EXTINF:-1 tvg-id="Freeform.-.East.Feed.us" tvg-name="Freeform" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/freeform.png" group-title="Entertainment",Freeform
@@ -45,14 +43,6 @@ http://fl3.moveonjoy.com/CINEMAX_MOREMAX/index.m3u8
 http://fl2.moveonjoy.com/OUTER_MAX/index.m3u8
 #EXTINF:-1 tvg-id="HBO.-.Eastern.Feed.us" tvg-name="HBO" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/hbo.png" group-title="Premium",HBO
 http://fl2.moveonjoy.com/HBO/index.m3u8
-#EXTINF:-1 tvg-id="HBO.2.-.Eastern.Feed.us" tvg-name="HBO 2" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/hbo2.png" group-title="Premium",HBO 2
-http://fl5.moveonjoy.com/HBO_2/index.m3u8
-#EXTINF:-1 tvg-id="HBO.Comedy.HD.-.East.us" tvg-name="HBO Comedy" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/hbocomedy.png" group-title="Premium",HBO Comedy
-http://fl5.moveonjoy.com/HBO_COMEDY/index.m3u8
-#EXTINF:-1 tvg-id="HBO.Family.-.Eastern.Feed.us" tvg-name="HBO Family" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/hbofamily.png" group-title="Premium",HBO Family
-http://fl5.moveonjoy.com/HBO_FAMILY/index.m3u8
-#EXTINF:-1 tvg-id="HBO.Signature.(HBO.3).-.Eastern.us" tvg-name="HBO Signature" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/hbosignature.png" group-title="Premium",HBO Signature
-https://xyzdddd.mizhls.ru/lb/premium693/index.m3u8
 #EXTINF:-1 tvg-id="MLB.Network.Strike.Zone.us" tvg-name="HBO Zone" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/hbozone.png" group-title="Premium",HBO Zone
 http://fl5.moveonjoy.com/HBO_ZONE/index.m3u8
 #EXTINF:-1 tvg-id="MGM+.HDTV.(East).(MGM+HD).us" tvg-name="MGM+" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/mgmplus.png" group-title="Premium",MGM+
@@ -111,8 +101,6 @@ http://41.205.93.154:80/MSNBC/index.m3u8
 http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
 #EXTINF:-1 tvg-id="AMC.-.Eastern.Feed.us" tvg-name="AMC" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/amc.png" group-title="Entertainment",AMC
 http://cors.tundracast.com:2000/https://streamer1.nexgen.bz/AMC/index.m3u8
-#EXTINF:-1 tvg-id="BBC.America.-.East.us" tvg-name="BBC America" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/bbcamerica.png" group-title="UK",BBC America
-https://bcovlive-a.akamaihd.net/7f5ec16d102f4b5d92e8e27bc95ff424/us-east-1/6240731308001/playlist.m3u8
 #EXTINF:-1 tvg-id="History.Channel.US.-.Eastern.Feed.us" tvg-name="History" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/history.png" group-title="Documentaries",History
 http://fl1.moveonjoy.com/history_channel/index.m3u8
 #EXTINF:-1 tvg-id="National.Geographic.US.-.Eastern.us" tvg-name="National Geographic" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/nationalgeographic.png" group-title="Documentaries",National Geographic
@@ -123,11 +111,3 @@ http://fl2.moveonjoy.com/Nat_Geo_Wild/index.m3u8
 http://fl3.moveonjoy.com/Discovery_Science/index.m3u8
 #EXTINF:-1 tvg-id="Smithsonian.Channel.USA.HD.us" tvg-name="Smithsonian Channel" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/smithsonianchannel.png" group-title="Documentaries",Smithsonian Channel
 http://fl2.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-name="BBC One Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/640px-BBC_One_logo_2021.svg.png" tvg-id="BBCOne.uk" group-title="UK",BBC One Ⓖ
-https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_yorks/iptv_hd_abr_v1.m3u8
-#EXTINF:-1 tvg-name="BBC Two Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/640px-BBC_Two_logo_2021.svg.png" tvg-id="BBCTwo.uk" group-title="UK",BBC Two Ⓖ
-https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/iptv_hd_abr_v1.m3u8
-#EXTINF:-1 tvg-name="Channel 4 Ⓢ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Channel_4_%28On_Demand%29_2023.svg/569px-Channel_4_%28On_Demand%29_2023.svg.png" tvg-id="Channel4.uk" group-title="UK",Channel 4 Ⓢ
-http://176.65.146.105:8011/play/a07w/index.m3u8
-#EXTINF:-1 tvg-name="BBC Four Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/640px-BBC_Four_logo_2021.svg.png" tvg-id="BBCFour.uk" group-title="UK",BBC Four Ⓖ
-https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_four_hd/iptv_hd_abr_v1.m3u8
