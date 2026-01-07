@@ -19,95 +19,35 @@ http://fl2.moveonjoy.com/FX_MOVIE/index.m3u8
 https://tvpass.org/channel/fxx-usa-eastern/hd
 #EXTINF:-1 tvg-id="MTV.USA.-.Eastern.Feed.us" tvg-name="MTV" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/mtv.png" group-title="Entertainment",MTV
 http://fl2.moveonjoy.com/MTV/index.m3u8
-#EXTINF:-1 tvg-id="Paramount.Network.USA.-.Eastern.Feed.us" tvg-name="Paramount Network" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/paramountnetwork.png" group-title="Entertainment",Paramount Network
-http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="SundanceTV.USA.-.East.us" tvg-name="Sundance TV" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/sundancetv.png" group-title="Entertainment",Sundance TV
 http://fl2.moveonjoy.com/SUNDANCE/index.m3u8
-#EXTINF:-1 tvg-id="Syfy.-.Eastern.Feed.us" tvg-name="SYFY" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/syfy.png" group-title="Entertainment",SYFY
-http://fl2.moveonjoy.com/SYFY/index.m3u8
 #EXTINF:-1 tvg-id="TBS.-.East.us" tvg-name="TBS" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/tbs.png" group-title="Entertainment",TBS
 http://fl2.moveonjoy.com/TBS/index.m3u8
-#EXTINF:-1 tvg-id="Turner.Classic.Movies.USA.us" tvg-name="TCM" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/tcm.png" group-title="Entertainment",TCM
-http://fl1.moveonjoy.com/TCM/index.m3u8
-#EXTINF:-1 tvg-id="TV.Land.-.Eastern.us" tvg-name="TV Land" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/tvland.png" group-title="Entertainment",TV Land
-http://fl2.moveonjoy.com/TV_Land/index.m3u8
 #EXTINF:-1 tvg-id="VH1.-.Eastern.Feed.us" tvg-name="VH1" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/vh1.png" group-title="Entertainment",VH1
 http://fl2.moveonjoy.com/VH1/index.m3u8
-#EXTINF:-1 tvg-id="Cinemax.-.Eastern.Feed.us" tvg-name="Cinemax East" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/cinemax.png" group-title="Premium",Cinemax East
-http://fl2.moveonjoy.com/CINEMAX/index.m3u8
-#EXTINF:-1 tvg-id="Cinemax.-.Pacific.Feed.us" tvg-name="Cinemax West" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/cinemax.png" group-title="Premium",Cinemax West
-http://fl2.moveonjoy.com/CINEMAX_WEST/index.m3u8
-#EXTINF:-1 tvg-id="MoreMax..Eastern.us" tvg-name="MoreMAX" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/moremax.png" group-title="Premium",MoreMAX
-http://fl3.moveonjoy.com/CINEMAX_MOREMAX/index.m3u8
-#EXTINF:-1 tvg-id="OuterMax.east.us" tvg-name="OuterMax" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/outermax.png" group-title="Premium",OuterMax
-http://fl2.moveonjoy.com/OUTER_MAX/index.m3u8
 #EXTINF:-1 tvg-id="HBO.-.Eastern.Feed.us" tvg-name="HBO" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/hbo.png" group-title="Premium",HBO
 http://fl2.moveonjoy.com/HBO/index.m3u8
 #EXTINF:-1 tvg-id="MLB.Network.Strike.Zone.us" tvg-name="HBO Zone" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/hbozone.png" group-title="Premium",HBO Zone
 http://fl5.moveonjoy.com/HBO_ZONE/index.m3u8
-#EXTINF:-1 tvg-id="MGM+.HDTV.(East).(MGM+HD).us" tvg-name="MGM+" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/mgmplus.png" group-title="Premium",MGM+
-http://fl2.moveonjoy.com/EPIX/index.m3u8
-#EXTINF:-1 tvg-id="MGM+.Drive-In.(MGM+DI).us" tvg-name="MGM+ Drive-in" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/mgmplusdrivein.png" group-title="Premium",MGM+ Drive-in
-http://fl2.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
-#EXTINF:-1 tvg-id="MGM+.Hits.HDTV.(East).(MGM+HTHD).us" tvg-name="MGM+ Hits" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/mgmplushits.png" group-title="Premium",MGM+ Hits
-http://fl2.moveonjoy.com/EPIX_2/index.m3u8
-#EXTINF:-1 tvg-id="Paramount+.with.Showtime.-.Eastern.Feed.us" tvg-name="Showtime East" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/showtime.png" group-title="Premium",Showtime East
-http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
-#EXTINF:-1 tvg-id="Paramount+.with.Showtime..West.us" tvg-name="Showtime West" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/showtime.png" group-title="Premium",Showtime West
-http://fl2.moveonjoy.com/SHOWTIME_WEST/index.m3u8
 #EXTINF:-1 tvg-id="Showtime.2.-.Eastern.us" tvg-name="Showtime 2" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/showtime2.png" group-title="Premium",Showtime 2
 http://fl2.moveonjoy.com/SHOWTIME_2/index.m3u8
-#EXTINF:-1 tvg-id="SHOXBET.-.Eastern.us" tvg-name="SHOxBET" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/shoxbet.png" group-title="Premium",SHOxBET
-https://xyzdddd.mizhls.ru/lb/premium685/index.m3u8
 #EXTINF:-1 tvg-id="Showtime.Extreme.-.Eastern.us" tvg-name="Showtime Extreme" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/showtimeextreme.png" group-title="Premium",Showtime Extreme
 http://fl2.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
-#EXTINF:-1 tvg-id="Showtime.Next.HD.-.Eastern.us" tvg-name="Showtime Next" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/showtimenext.png" group-title="Premium",Showtime Next
-http://fl2.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
-#EXTINF:-1 tvg-id="Showtime.Women.HD.-.Eastern.us" tvg-name="Showtime Women" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/showtimewomen.png" group-title="Premium",Showtime Women
-http://fl2.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
 #EXTINF:-1 tvg-id="Starz.-.Eastern.us" tvg-name="Starz East" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/starz.png" group-title="Premium",Starz East
 http://fl2.moveonjoy.com/STARZ/index.m3u8
-#EXTINF:-1 tvg-id="Starz.-.Pacific.us" tvg-name="Starz West" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/starz.png" group-title="Premium",Starz West
-http://fl2.moveonjoy.com/STARZ_WEST/index.m3u8
-#EXTINF:-1 tvg-id="Starz.Comedy.HD.-.Eastern.us" tvg-name="Starz Comedy" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/starzcomedy.png" group-title="Premium",Starz Comedy
-http://fl5.moveonjoy.com/STARZ_COMEDY/index.m3u8
-#EXTINF:-1 tvg-id="Starz.Edge.-.Eastern.us" tvg-name="Starz Edge" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/starzedge.png" group-title="Premium",Starz Edge
-http://fl5.moveonjoy.com/STARZ_EDGE/index.m3u8
-#EXTINF:-1 tvg-id="Starz.Encore.-.Eastern.us" tvg-name="Starz Encore" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/starzencore.png" group-title="Premium",Starz Encore
-http://fl5.moveonjoy.com/STARZ_ENCORE/index.m3u8
 #EXTINF:-1 tvg-id="Food.Network.USA.-.Eastern.Feed.us" tvg-name="Food Network" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/foodnetwork.png" group-title="Documentaries",Food Network
 http://fl2.moveonjoy.com/FOOD_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="HGTV.USA.-.Eastern.Feed.us" tvg-name="HGTV" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/hgtv.png" group-title="Documentaries",HGTV
 http://fl2.moveonjoy.com/HGTV/index.m3u8
-#EXTINF:-1 tvg-id="VICE.us" tvg-name="Viceland" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/viceland.png" group-title="Documentaries",Viceland
-http://fl2.moveonjoy.com/VICELAND/index.m3u8
-#EXTINF:-1 tvg-id="Boomerang.us" tvg-name="Boomerang" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/boomerang.png" group-title="Entertainment",Boomerang
-http://fl3.moveonjoy.com/BOOMERANG/index.m3u8
-#EXTINF:-1 tvg-id="Discovery.Family.Channel.us" tvg-name="Discovery Family" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/discoveryfamily.png" group-title="Entertainment",Discovery Family
-http://fl2.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="Disney.-.Eastern.Feed.us" tvg-name="Disney Channel" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/disneychannel.png" group-title="Entertainment",Disney Channel
 https://fl31.moveonjoy.com/DISNEY/index.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.USA.-.East.Feed.us" tvg-name="Nickelodeon" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/nickelodeon.png" group-title="Entertainment",Nickelodeon
 http://fl1.moveonjoy.com/NICKELODEON/index.m3u8
-#EXTINF:-1 tvg-id="Nicktoons.-.East.us" tvg-name="Nicktoons" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/nicktoons.png" group-title="Entertainment",Nicktoons
-http://fl2.moveonjoy.com/NICKTOONS/index.m3u8
-#EXTINF:-1 tvg-id="American.Heroes.Channel.us" tvg-name="American Heroes Channel" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/americanheroeschannel.png" group-title="Documentaries",American Heroes Channel
-http://fl3.moveonjoy.com/American_Heroes_Channel/index.m3u8
 #EXTINF:-1 tvg-id="Animal.Planet.US.-.East.us" tvg-name="Animal Planet" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/animalplanet.png" group-title="Documentaries",Animal Planet
 http://fl2.moveonjoy.com/Animal_Planet/index.m3u8
 #EXTINF:-1 tvg-id="MSNBC.USA.us" tvg-name="MSNBC" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/msnbc.png" group-title="Documentaries",MSNBC
 http://41.205.93.154:80/MSNBC/index.m3u8
-#EXTINF:-1 tvg-id="Discovery.Channel.(US).-.Eastern.Feed.us" tvg-name="Discovery" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/discovery.png" group-title="Documentaries",Discovery
-http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
 #EXTINF:-1 tvg-id="AMC.-.Eastern.Feed.us" tvg-name="AMC" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/amc.png" group-title="Entertainment",AMC
 http://cors.tundracast.com:2000/https://streamer1.nexgen.bz/AMC/index.m3u8
 #EXTINF:-1 tvg-id="History.Channel.US.-.Eastern.Feed.us" tvg-name="History" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/history.png" group-title="Documentaries",History
 http://fl1.moveonjoy.com/history_channel/index.m3u8
-#EXTINF:-1 tvg-id="National.Geographic.US.-.Eastern.us" tvg-name="National Geographic" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/nationalgeographic.png" group-title="Documentaries",National Geographic
-http://fl2.moveonjoy.com/National_Geographic/index.m3u8
-#EXTINF:-1 tvg-id="National.Geographic.Wild.us" tvg-name="Nat Geo Wild" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/natgeowild.png" group-title="Documentaries",Nat Geo Wild
-http://fl2.moveonjoy.com/Nat_Geo_Wild/index.m3u8
-#EXTINF:-1 tvg-id="Science.us" tvg-name="Science" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/science.png" group-title="Documentaries",Science
-http://fl3.moveonjoy.com/Discovery_Science/index.m3u8
-#EXTINF:-1 tvg-id="Smithsonian.Channel.USA.HD.us" tvg-name="Smithsonian Channel" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/smithsonianchannel.png" group-title="Documentaries",Smithsonian Channel
-http://fl2.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
