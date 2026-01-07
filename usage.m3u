@@ -16,7 +16,7 @@ http://fl2.moveonjoy.com/FX/index.m3u8
 #EXTINF:-1 tvg-id="FX.Movie.Channel.us" tvg-name="FXM" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/fxm.png" group-title="Entertainment",FXM
 http://fl2.moveonjoy.com/FX_MOVIE/index.m3u8
 #EXTINF:-1 tvg-id="FXX.USA.-.Eastern.us" tvg-name="FXX" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/fxx.png" group-title="Entertainment",FXX
-https://tvpass.org/channel/fxx-usa-eastern/hd
+https://tvpass.org/channel/fxx-usa-eastern
 #EXTINF:-1 tvg-id="MTV.USA.-.Eastern.Feed.us" tvg-name="MTV" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/mtv.png" group-title="Entertainment",MTV
 http://fl2.moveonjoy.com/MTV/index.m3u8
 #EXTINF:-1 tvg-id="SundanceTV.USA.-.East.us" tvg-name="Sundance TV" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/sundancetv.png" group-title="Entertainment",Sundance TV
