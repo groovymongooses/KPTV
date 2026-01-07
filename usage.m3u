@@ -7,10 +7,6 @@ http://fl2.moveonjoy.com/ESPN_2/index.m3u8
 https://tvpass.org/live/fanduel-sports-network-ohio-cleveland/hd
 #EXTINF:-1 tvg-id="3ABN.Three.Angels.Broadcasting.Network.us" tvg-name="SEC Network" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/secnetwork.png" group-title="Sports",SEC Network
 https://xyzdddd.mizhls.ru/lb/premium385/index.m3u8
-#EXTINF:-1 tvg-id="AMC.-.Eastern.Feed.us" tvg-name="AMC" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/amc.png" group-title="Entertainment",AMC
-http://cors.tundracast.com:2000/https://streamer1.nexgen.bz/AMC/index.m3u8
-#EXTINF:-1 tvg-id="BBC.America.-.East.us" tvg-name="BBC America" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/bbcamerica.png" group-title="Entertainment",BBC America
-https://bcovlive-a.akamaihd.net/7f5ec16d102f4b5d92e8e27bc95ff424/us-east-1/6240731308001/playlist.m3u8
 #EXTINF:-1 tvg-id="Comedy.Central.(US).-.Eastern.Feed.us" tvg-name="Comedy Central" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/comedycentral.png" group-title="Entertainment",Comedy Central
 http://fl1.moveonjoy.com/Comedy_Central/index.m3u8
 #EXTINF:-1 tvg-id="Freeform.-.East.Feed.us" tvg-name="Freeform" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/freeform.png" group-title="Entertainment",Freeform
@@ -119,6 +115,10 @@ http://fl2.moveonjoy.com/Animal_Planet/index.m3u8
 http://41.205.93.154:80/MSNBC/index.m3u8
 #EXTINF:-1 tvg-id="Discovery.Channel.(US).-.Eastern.Feed.us" tvg-name="Discovery" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/discovery.png" group-title="Documentaries",Discovery
 http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
+#EXTINF:-1 tvg-id="AMC.-.Eastern.Feed.us" tvg-name="AMC" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/amc.png" group-title="Entertainment",AMC
+http://cors.tundracast.com:2000/https://streamer1.nexgen.bz/AMC/index.m3u8
+#EXTINF:-1 tvg-id="BBC.America.-.East.us" tvg-name="BBC America" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/bbcamerica.png" group-title="Entertainment",BBC America
+https://bcovlive-a.akamaihd.net/7f5ec16d102f4b5d92e8e27bc95ff424/us-east-1/6240731308001/playlist.m3u8
 #EXTINF:-1 tvg-id="History.Channel.US.-.Eastern.Feed.us" tvg-name="History" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/history.png" group-title="Documentaries",History
 http://fl1.moveonjoy.com/history_channel/index.m3u8
 #EXTINF:-1 tvg-id="National.Geographic.US.-.Eastern.us" tvg-name="National Geographic" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/nationalgeographic.png" group-title="Documentaries",National Geographic
