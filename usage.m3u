@@ -67,13 +67,7 @@ https://fl1.moveonjoy.com/FOX_Sports_1/index.m3u8
 https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="TNT.-.East.us" tvg-name="TNT" tvg-logo="https://raw.githubusercontent.com/CODERX24/tv/refs/heads/master/TNT_HD.png" group-title="Entertainment",TNT
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="CBS.Sports.Network.USA.us" tvg-name="CBS Sports Network Server 1" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/cbssportsnetwork.png" group-title="Sports",CBS Sports Network Server 1
-http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="CBS.Sports.Network.USA.us" tvg-name="CBS Sports Network Server 2" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/cbssportsnetwork.png" group-title="Sports",CBS Sports Network Server 2
-https://xyzdddd.mizhls.ru/lb/premium308/index.m3u8
+#EXTINF:-1 tvg-id="CBS.Sports.Network.USA.us" tvg-name="CBS Sports Network" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/cbssportsnetwork.png" group-title="Sports",CBS Sports Network Server 2
+http://livex.pop-app.live/s4n/poplive/ch325/playlist.m3u8
 #EXTINF:-1 tvg-id="FXX.USA.-.Eastern.us" tvg-name="FXX" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/fxx.png" group-title="Entertainment",FXX
-http://fl2.moveonjoy.com/FXX/index.m3u8
-#EXTINF:-1 tvg-id="TNT.-.Eastern.Feed.us" tvg-name="TNT" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/tnt.png" group-title="Entertainment",TNT
-http://fl2.moveonjoy.com/TNT/index.m3u8
-#EXTINF:-1 tvg-id="truTV.USA.-.Eastern.us" tvg-name="truTV" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/trutv.png" group-title="Entertainment",truTV
-http://fl2.moveonjoy.com/TRU_TV/index.m3u8
+https://fl1.moveonjoy.com/FXX/index.m3u8
