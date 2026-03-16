@@ -3,6 +3,16 @@
 http://41.205.93.154/ESPN/index.m3u8
 #EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN 2" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/espn2.png" group-title="Sports",ESPN 2
 http://fl2.moveonjoy.com/ESPN_2/index.m3u8
+#EXTINF:-1  tvg-id="Comedy.Central.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png" tvg-name="COMEDY CENTRAL", COMEDY CENTRAL
+http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
+#EXTINF:-1  tvg-name="FX Networks East Coast SD" tvg-id="fx-networks-east-coast" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fx-us.png?raw=true" group-title="TVPass",FX Networks East Coast SD
+https://tvpass.org/live/FXEast/sd
+#EXTINF:-1  tvg-name="FX Networks East Coast HD" tvg-id="fx-networks-east-coast" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fx-us.png?raw=true" group-title="TVPass",FX Networks East Coast HD
+https://tvpass.org/live/FXEast/hd
+#EXTINF:-1  tvg-name="USA Network East Feed SD" tvg-id="usa-network-east-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true" group-title="TVPass",USA Network East Feed SD
+https://tvpass.org/live/USANetworkEast/sd
+#EXTINF:-1  tvg-name="USA Network East Feed HD" tvg-id="usa-network-east-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true" group-title="TVPass",USA Network East Feed HD
+https://tvpass.org/live/USANetworkEast/hd
 #EXTINF:-1 tvg-id="FanDuel.Sports.Network.Ohio.-.Cleveland.us" tvg-name="Fanduel Sports Network Ohio" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/fanduelsportsnetwork.png" group-title="Sports",Fanduel Sports Network Ohio
 https://tvpass.org/live/fanduel-sports-network-ohio-cleveland/hd
 #EXTINF:-1 tvg-id="AdultSwimEast.us",Adult Swim East
@@ -15,14 +25,6 @@ https://turnerlive.warnermediacdn.com/hls/live/2023185/aswest/noslate/VIDEO_1_51
 https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_us/streams/us/AdultSwimWest.us.m3u8
 #EXTINF:-1 tvg-id="FXX.us@East",FXX East (720p)
 https://tvpass.org/live/FXXEast/hd
-#EXTINF:-1 tvg-id="TBS.-.East.us" tvg-name="TBS" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/tbs.png" group-title="Entertainment",TBS
-http://fl2.moveonjoy.com/TBS/index.m3u8
-#EXTINF:-1 tvg-id="Starz.-.Eastern.us" tvg-name="Starz East" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/starz.png" group-title="Premium",Starz East
-http://fl2.moveonjoy.com/STARZ/index.m3u8
-#EXTINF:-1 tvg-id="Disney.-.Eastern.Feed.us" tvg-name="Disney Channel" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/disneychannel.png" group-title="Entertainment",Disney Channel
-https://fl31.moveonjoy.com/DISNEY/index.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.USA.-.East.Feed.us" tvg-name="Nickelodeon" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/nickelodeon.png" group-title="Entertainment",Nickelodeon
-http://fl1.moveonjoy.com/NICKELODEON/index.m3u8
 #EXTINF:-1 tvg-id="USANetwork.us@East" tvg-logo="https://raw.githubusercontent.com/CODERX24/tv/refs/heads/master/1200px-USA_Network_logo_(2016).svg.png",group-title="Entertainment" USA Network (720p)
 https://tvpass.org/channel/usa-network-east-feed
 #EXTINF:-1 tvg-id="TNTEast.us",TNT East (720p)
