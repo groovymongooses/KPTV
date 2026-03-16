@@ -5,13 +5,13 @@ http://41.205.93.154/ESPN/index.m3u8
 http://fl2.moveonjoy.com/ESPN_2/index.m3u8
 #EXTINF:-1  tvg-id="Comedy.Central.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png" tvg-name="COMEDY CENTRAL", COMEDY CENTRAL
 http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
-#EXTINF:-1  tvg-name="FX Networks East Coast SD" tvg-id="fx-networks-east-coast" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fx-us.png?raw=true" group-title="TVPass",FX Networks East Coast SD
+#EXTINF:-1  tvg-name="FX EastSD" tvg-id="fx-networks-east-coast" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fx-us.png?raw=true" group-title="TVPass",FX Networks East Coast SD
 https://tvpass.org/live/FXEast/sd
-#EXTINF:-1  tvg-name="FX Networks East Coast HD" tvg-id="fx-networks-east-coast" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fx-us.png?raw=true" group-title="TVPass",FX Networks East Coast HD
+#EXTINF:-1  tvg-name="FX EastHD" tvg-id="fx-networks-east-coast" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fx-us.png?raw=true" group-title="TVPass",FX Networks East Coast HD
 https://tvpass.org/live/FXEast/hd
-#EXTINF:-1  tvg-name="USA Network East Feed SD" tvg-id="usa-network-east-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true" group-title="TVPass",USA Network East Feed SD
+#EXTINF:-1  tvg-name="USA EastSD" tvg-id="usa-network-east-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true" group-title="TVPass",USA Network East Feed SD
 https://tvpass.org/live/USANetworkEast/sd
-#EXTINF:-1  tvg-name="USA Network East Feed HD" tvg-id="usa-network-east-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true" group-title="TVPass",USA Network East Feed HD
+#EXTINF:-1  tvg-name="USA EASTHD" tvg-id="usa-network-east-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true" group-title="TVPass",USA Network East Feed HD
 https://tvpass.org/live/USANetworkEast/hd
 #EXTINF:-1 tvg-id="FanDuel.Sports.Network.Ohio.-.Cleveland.us" tvg-name="Fanduel Sports Network Ohio" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/fanduelsportsnetwork.png" group-title="Sports",Fanduel Sports Network Ohio
 https://tvpass.org/live/fanduel-sports-network-ohio-cleveland/hd
@@ -19,17 +19,17 @@ https://tvpass.org/live/fanduel-sports-network-ohio-cleveland/hd
 https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8
 #EXTINF:-1 tvg-id="AdultSwimWest.us",Adult Swim West
 https://turnerlive.warnermediacdn.com/hls/live/2023185/aswest/noslate/VIDEO_1_5128000.m3u8
-#EXTINF:-1 tvg-id="FXX.us@East",FXX East (720p)
+#EXTINF:-1 tvg-id="FXX.us@East",FXX East
 https://tvpass.org/live/FXXEast/hd
-#EXTINF:-1 tvg-id="TNTEast.us",TNT East (720p)
+#EXTINF:-1 tvg-id="TNTEast.us",TNT East
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="TNTWest.us",TNT West (720p)
+#EXTINF:-1 tvg-id="TNTWest.us",TNT West
 https://turnerlive.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="Trutv.-.East.us" tvg-name="TruTv" tvg-logo="" group-title="Entertainment",TruTv
 https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="truTVWest.us",truTV West (720p)
+#EXTINF:-1 tvg-id="truTVWest.us",truTV West
 https://turnerlive.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="TBSEast.us",TBS East (720p)
+#EXTINF:-1 tvg-id="TBSEast.us",TBS East
 https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="TBSWest.us",TBS West (720p)
+#EXTINF:-1 tvg-id="TBSWest.us",TBS West
 https://turnerlive.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8
