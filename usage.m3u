@@ -16,7 +16,7 @@ https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_51
 #EXTINF:-1 tvg-id="AdultSwimWest.us",Adult Swim West
 https://turnerlive.warnermediacdn.com/hls/live/2023185/aswest/noslate/VIDEO_1_5128000.m3u8
 #EXTINF:-1 tvg-id="FXX.us@East",FXX East
-hhttp://23.237.104.106:8080/USA_FXX/index.m3u8
+http://23.237.104.106:8080/USA_FXX/index.m3u8
 #EXTINF:-1 tvg-id="TNTEast.us",TNT East
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="TNTWest.us",TNT West
