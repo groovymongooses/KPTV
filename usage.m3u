@@ -5,12 +5,8 @@ http://41.205.93.154/ESPN/index.m3u8
 http://fl2.moveonjoy.com/ESPN_2/index.m3u8
 #EXTINF:-1  tvg-id="Comedy.Central.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png" tvg-name="COMEDY CENTRAL", COMEDY CENTRAL
 http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
-#EXTINF:-1  tvg-name="FX EastSD" tvg-id="fx-networks-east-coast" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fx-us.png?raw=true" group-title="TVPass",FX EastSD
-https://tvpass.org/live/FXEast/sd
 #EXTINF:-1  tvg-name="FX EastHD" tvg-id="fx-networks-east-coast" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fx-us.png?raw=true" group-title="TVPass",FX EastHD
-https://tvpass.org/live/FXEast/hd
-#EXTINF:-1  tvg-name="USA EastSD" tvg-id="usa-network-east-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true" group-title="TVPass",USA EastSD
-https://tvpass.org/live/USANetworkEast/sd
+http://23.237.104.106:8080/USA_FX/index.m3u8
 #EXTINF:-1  tvg-name="USA EASTHD" tvg-id="usa-network-east-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true" group-title="TVPass",USA EastHD
 https://tvpass.org/live/USANetworkEast/hd
 #EXTINF:-1 tvg-id="FanDuel.Sports.Network.Ohio.-.Cleveland.us" tvg-name="Fanduel Sports Network Ohio" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/fanduelsportsnetwork.png" group-title="Sports",Fanduel Sports Network Ohio
@@ -20,7 +16,7 @@ https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_51
 #EXTINF:-1 tvg-id="AdultSwimWest.us",Adult Swim West
 https://turnerlive.warnermediacdn.com/hls/live/2023185/aswest/noslate/VIDEO_1_5128000.m3u8
 #EXTINF:-1 tvg-id="FXX.us@East",FXX East
-https://tvpass.org/live/FXXEast/hd
+hhttp://23.237.104.106:8080/USA_FXX/index.m3u8
 #EXTINF:-1 tvg-id="TNTEast.us",TNT East
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="TNTWest.us",TNT West
