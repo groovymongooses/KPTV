@@ -1,22 +1,24 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/espn.png" group-title="Sports",ESPN
-http://41.205.93.154/ESPN/index.m3u8
+https://epidd.hundxvision.co.uk/main/secure/52c95990ad4762a4d5312cd0463480e970e626546bd527161bcc63a90c7ed504/1789321919/espn-usa.m3u8
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN2" tvg-logo="" group-title="Sports",ESPN 2
+https://epidd.hundxvision.co.uk/main/secure/a489a0845f750a8297e8067daae48ae8543da779b8349dfe03e3627a288bcd8f/1789322126/espn2-usa.m3u8
 #EXTINF:-1 tvg-id="ESPNU.us" tvg-name="ESPNU" tvg-logo="" group-title="Sports",ESPN U
-http://23.237.104.106:8080/USA_ESPNU/index.m3u8
+https://epidd.hundxvision.co.uk/main/secure/7809643826f6c8d2be1efcf5f3a190a1eef0893289e32558fa6efc3534cbd5fc/1789322062/espnu-usa.m3u8
 #EXTINF:-1  tvg-id="Comedy.Central.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png" tvg-name="COMEDY CENTRAL", COMEDY CENTRAL
-https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
+https://epidd.hundxvision.co.uk/main/secure/8569509141ff29c07b3f8110459ad3b91cce85609a6888bb9712f5536f2dec42/1789322208/comedycentral-usa.m3u8
 #EXTINF:-1  tvg-name="FX EastHD" tvg-id="fx-networks-east-coast" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fx-us.png?raw=true" group-title="TVPass",FX EastHD
-http://23.237.104.106:8080/USA_FX/index.m3u8
+https://epidd.hundxvision.co.uk/main/secure/ef9a2cdfda5924b793df72ee29e2f99527d0257d26c795131636e4143dcfe4b9/1789321718/fx-usa.m3u8
 #EXTINF:-1  tvg-name="USA EASTHD" tvg-id="usa-network-east-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true" group-title="TVPass",USA EastHD
 https://tvsen3.aynaott.com/dbbcY6NG/index.m3u8
-#EXTINF:-1 tvg-id="FanDuel.Sports.Network.Ohio.-.Cleveland.us" tvg-name="Fanduel Sports Network Ohio" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/fanduelsportsnetwork.png" group-title="Sports",Fanduel Sports Network Ohio
-https://tvpass.org/live/fanduel-sports-network-ohio-cleveland/hd
+#EXTINF:-1 tvg-id="HBOEast.us" tvg-name="HBO" tvg-logo="" group-title="Movies",HBO
+https://epidd.hundxvision.co.uk/main/secure/b8de14dbf591594ee7ff8f66ef2ee8fcfddfb007ad7ceeb46bc4306b9cf924be/1789322553/hbo-usa.m3u8
 #EXTINF:-1 tvg-id="AdultSwimEast.us",Adult Swim East
 https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8
 #EXTINF:-1 tvg-id="AdultSwimWest.us",Adult Swim West
 https://turnerlive.warnermediacdn.com/hls/live/2023185/aswest/noslate/VIDEO_1_5128000.m3u8
 #EXTINF:-1 tvg-id="FXX.us@East",FXX East
-http://23.237.104.106:8080/USA_FXX/index.m3u8
+https://epidd.hundxvision.co.uk/main/secure/82e253c6d1061455bfb306c7cb59a8dd54280b1bbf5c8447da81399ed495b35c/1789321055/fxx-usa.m3u8
 #EXTINF:-1 tvg-id="TNTEast.us",TNT East
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="TNTWest.us",TNT West
