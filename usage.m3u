@@ -17,8 +17,10 @@ https://epidd.hundxvision.co.uk/main/secure/b8de14dbf591594ee7ff8f66ef2ee8fcfddf
 https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8
 #EXTINF:-1 tvg-id="AdultSwimWest.us",Adult Swim West
 https://turnerlive.warnermediacdn.com/hls/live/2023185/aswest/noslate/VIDEO_1_5128000.m3u8
-#EXTINF:-1 tvg-id="FXX.us@East",FXX East
-https://643t8a.7odxv0l067ka.net:8443/hls/nesxq5q1sd6e9-619936920.ts
+#EXTINF:0 CUID="17" tvg-chno="73" tvg-name="FX" tvg-id="fx.us" tvg-logo="https://logo.m3uassets.com/fx.png" group-title="TV Guide",FX
+DNS/live/USERNAME/PASSWORD/552044.ts
+#EXTINF:0 CUID="18" tvg-chno="75" tvg-name="FXX" tvg-id="fxx.us" tvg-logo="https://logo.m3uassets.com/fxx.png" group-title="TV Guide",FXX
+DNS/live/USERNAME/PASSWORD/552042.ts
 #EXTINF:-1 tvg-id="TNTEast.us",TNT East
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="TNTWest.us",TNT West
