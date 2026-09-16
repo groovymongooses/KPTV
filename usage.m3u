@@ -1,36 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="https://848b3516657c-usatv.baby-beamup.club/public/logos/espn.png" group-title="Sports",ESPN
-https://epidd.hundxvision.co.uk/main/secure/52c95990ad4762a4d5312cd0463480e970e626546bd527161bcc63a90c7ed504/1789321919/espn-usa.m3u8|User-Agent=Mozilla/5.0&Referer=https://epidd.hundxvision.co.uk/
-#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN2" tvg-logo="" group-title="Sports",ESPN 2
-https://epidd.hundxvision.co.uk/main/secure/a489a0845f750a8297e8067daae48ae8543da779b8349dfe03e3627a288bcd8f/1789322126/espn2-usa.m3u8|User-Agent=Mozilla/5.0&Referer=https://epidd.hundxvision.co.uk/
-#EXTINF:-1 tvg-id="ESPNU.us" tvg-name="ESPNU" tvg-logo="" group-title="Sports",ESPN U
-https://epidd.hundxvision.co.uk/main/secure/7809643826f6c8d2be1efcf5f3a190a1eef0893289e32558fa6efc3534cbd5fc/1789322062/espnu-usa.m3u8|User-Agent=Mozilla/5.0&Referer=https://epidd.hundxvision.co.uk/
-#EXTINF:-1  tvg-id="Comedy.Central.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png" tvg-name="COMEDY CENTRAL", COMEDY CENTRAL
-https://epidd.hundxvision.co.uk/main/secure/9b59c7766bfd6d37843bb217b1eaaddbf1efae1fe9d28dcd1460f9d43c18735a/1789324091/comedycentral-usa.m3u8
-#EXTINF:-1  tvg-name="FX EastHD" tvg-id="fx-networks-east-coast" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fx-us.png?raw=true" group-title="TVPass",FX EastHD
-https://epidd.hundxvision.co.uk/main/secure/fx-usa.m3u8
 #EXTINF:-1  tvg-name="USA EASTHD" tvg-id="usa-network-east-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true" group-title="TVPass",USA EastHD
 https://tvsen3.aynaott.com/dbbcY6NG/index.m3u8
-#EXTINF:-1 tvg-id="HBOEast.us" tvg-name="HBO" tvg-logo="" group-title="Movies",HBO
-https://epidd.hundxvision.co.uk/main/secure/b8de14dbf591594ee7ff8f66ef2ee8fcfddfb007ad7ceeb46bc4306b9cf924be/1789322553/hbo-usa.m3u8
 #EXTINF:-1 tvg-id="AdultSwimEast.us",Adult Swim East
 https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8
 #EXTINF:-1 tvg-id="AdultSwimWest.us",Adult Swim West
 https://turnerlive.warnermediacdn.com/hls/live/2023185/aswest/noslate/VIDEO_1_5128000.m3u8
-#EXTINF:0 CUID="3690" tvg-chno="399" tvg-name="FXM" tvg-id="fxm.us" tvg-logo="https://logo.m3uassets.com/fxm.png" group-title="MOVIES",FXM
-DNS/live/USERNAME/PASSWORD/552045.ts
-#EXTINF:0 CUID="3691" tvg-chno="400" tvg-name="FX" tvg-id="fx.us" tvg-logo="https://logo.m3uassets.com/fx.png" group-title="MOVIES",FX
-DNS/live/USERNAME/PASSWORD/656132.ts
-#EXTINF:0 CUID="3692" tvg-chno="401" tvg-name="FX WEST" tvg-id="fxwest.us" tvg-logo="https://logo.m3uassets.com/fxwest.png" group-title="MOVIES",FX WEST
-DNS/live/USERNAME/PASSWORD/552043.ts
-#EXTINF:0 CUID="3693" tvg-chno="402" tvg-name="FX (EAST)" tvg-id="fx.us" tvg-logo="https://logo.m3uassets.com/fx.png" group-title="MOVIES",FX (EAST)
-DNS/live/USERNAME/PASSWORD/552044.ts
-#EXTINF:0 CUID="3694" tvg-chno="403" tvg-name="FXX" tvg-id="fxx.us" tvg-logo="https://logo.m3uassets.com/fxx.png" group-title="MOVIES",FXX
-DNS/live/USERNAME/PASSWORD/687889.ts
-#EXTINF:0 CUID="3695" tvg-chno="404" tvg-name="FXX (WEST)" tvg-id="fxx.us" tvg-logo="https://logo.m3uassets.com/fxx.png" group-title="MOVIES",FXX (WEST)
-DNS/live/USERNAME/PASSWORD/552041.ts
-#EXTINF:0 CUID="3696" tvg-chno="405" tvg-name="FXX (EAST)" tvg-id="fxx.us" tvg-logo="https://logo.m3uassets.com/fxx.png" group-title="MOVIES",FXX (EAST)
-DNS/live/USERNAME/PASSWORD/552042.ts
 #EXTINF:-1 tvg-id="TNTEast.us",TNT East
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="TNTWest.us",TNT West
