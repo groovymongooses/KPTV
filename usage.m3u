@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1  tvg-name="USA EASTHD" tvg-id="usa-network-east-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true" group-title="TVPass",USA EastHD
-https://tvsen3.aynaott.com/dbbcY6NG/index.m3u8
 #EXTINF:-1 tvg-id="AdultSwimEast.us",Adult Swim East
 https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8
 #EXTINF:-1 tvg-id="AdultSwimWest.us",Adult Swim West
@@ -17,3 +15,11 @@ https://turnerlive.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_0_356
 https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="TBSWest.us",TBS West
 https://turnerlive.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1  tvg-name="USA EASTHD" tvg-id="usa",USA
+https://tvsen3.aynaott.com/dbbcY6NG/index.m3u8
+#EXTINF:-1 tvg-id="HBOEast.us",HBO
+http://tvsen7.aynascope.net/hbo/index.m3u8
+#EXTINF:-1 tvg-id="FXEast.us",FX East
+https://tvsen7.aynascope.net/fx/index.m3u8
+#EXTINF:-1 tvg-id="SNLVault.us",SNL Vault
+https://xumo-xumoent-vc-103-d3uqt.fast.nbcuni.com/live/master.m3u8
