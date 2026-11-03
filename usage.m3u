@@ -15,11 +15,31 @@ https://turnerlive.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_0_356
 https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="TBSWest.us",TBS West
 https://turnerlive.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1  tvg-name="TMC.us" tvg-id="TMC",TMC
+https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
+#EXTINF:-1  tvg-name="IFC.us" tvg-id="IFC",IFC
+http://23.237.104.106:8080/USA_IFC/index.m3u8
 #EXTINF:-1  tvg-name="USA EASTHD" tvg-id="usa",USA
 https://tvsen3.aynaott.com/dbbcY6NG/index.m3u8
 #EXTINF:-1 tvg-id="HBOEast.us",HBO
 http://tvsen7.aynascope.net/hbo/index.m3u8
+#EXTINF:-1 tvg-id="StarzComedy.us",Starz Comedy
+http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8
 #EXTINF:-1 tvg-id="FXEast.us",FX East
 https://tvsen7.aynascope.net/fx/index.m3u8
 #EXTINF:-1 tvg-id="SNLVault.us",SNL Vault
 https://xumo-xumoent-vc-103-d3uqt.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 tvg-id="FoxSports1.us",FS1
+http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
+#EXTINF:-1 tvg-id="BigTenNetwork.us",Big Ten
+http://23.237.104.106:8080/USA_BTN/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.us",ESPN
+http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
+#EXTINF:-1 tvg-id="ESPN2.us",ESPN2
+http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
+#EXTINF:-1 tvg-id="ESPNU.us",ESPNU
+http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8
+#EXTINF:-1 tvg-id="MTV.us",MTV
+http://23.237.104.106:8080/USA_MTV/index.m3u8
+#EXTINF:-1 tvg-id="CartoonNetwork.us",Cartoon Network East
+https://turnerlive.warnermediacdn.com/hls/live/2023160/tooneast/noslate/VIDEO_3_1928000.m3u8
